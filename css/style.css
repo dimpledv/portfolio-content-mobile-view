@@ -82,7 +82,7 @@ img:hover{
 
 /* bkg image */
 .resume header{
-    background-image: url('../hello.jpg');
+    background-image: url('../images/hello.jpg');
     background-attachment: fixed; 
     background-position: center;  
     background-repeat: no-repeat; 
@@ -255,51 +255,4 @@ nav a:hover{
 
   }
   
-
-/* 	width: 400px;      
-    text-align: center;
-    grid-column: 1/ span all;
-    grid-row: 1 / span all;
-
-    .container{
-    display: grid;
-    grid-template-columns: 200px auto 500px auto 50px;
-    grid-template-rows: 100px 400px 400px 400px 400px 400px 100px;
-}
- extra 
-    background-color: rgb(150, 147, 147);
-    grid-column: 1/ span all;
-    grid-row: 1 ;
-    border:1px solid rgb(0, 0, 0) ;
-    border-radius: 5px;
-    text-align: right;
-    align-self: flex-end;
-
-    container - 
-    display: inline-flex;
-	justify-content: space-around;
-
-footer{
-    background-color: black;
-    color: white;
-    grid-column: 1 / -1 ;
-    grid-row: 7 ;
-    text-align: center;
-    padding-top: 30px;
-}
-
-.container{
-    display: grid;
-    grid-template-columns: 1fr 5fr 1fr;
-    grid-template-rows: 70px 200px 200px 100px 100px;
-}
-
-main{
-    padding: 30px;
-    grid-column: 2/ span all;
-    grid-row: 2 / span 4;
-    display: inline-block;
-    text-align: left;
-}
-
-*/
+   
