@@ -154,7 +154,6 @@ nav a:hover{
     grid-template-columns: 1fr;
     grid-template-rows: 70px 300px 250px 300px 100px 50px;
     row-gap: 30px;
-
     margin: 10px;
 } 
 
@@ -166,14 +165,14 @@ nav a:hover{
 }
 .para1{
     grid-row: 2/ span 1;
-    text-align: justify;
+    text-align: left;
     padding: 30px;
     justify-items: center;
 }
 
 .para2{
     grid-row: 3 / span 1;
-    text-align: justify;
+    text-align: left;
     justify-items: center;
     padding: 30px;
 }
