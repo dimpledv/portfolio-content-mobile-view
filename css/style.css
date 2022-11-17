@@ -167,13 +167,11 @@ nav a:hover{
     grid-row: 2/ span 1;
     text-align: left;
     padding: 30px;
-    justify-items: center;
 }
 
 .para2{
     grid-row: 3 / span 1;
     text-align: left;
-    justify-items: center;
     padding: 30px;
 }
 
@@ -193,9 +191,9 @@ nav a:hover{
 
 .fa-chart-pie{
 	display: inline;
-    width: 150px;
+    	width: 150px;
 	height: 150px;
-    justify-items: center;
+    	justify-items: center;
 	position: relative;
 	animation-name: example;
 	animation-duration: 4s;
